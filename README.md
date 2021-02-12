@@ -13,5 +13,6 @@ Steps to recreate
 
 Expected results are that the Pull Request is marked as merged.
 
-PR_Test1:
-This change should be merged to `main` and the PR should be marked as merged.
+_PR_Test1_
+
+:white_check_mark: This change should be merged to `main` and the PR should be marked as merged.
